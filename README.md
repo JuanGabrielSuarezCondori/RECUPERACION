@@ -1,6 +1,8 @@
 # 🇵🇪 RunasimiTrans: Traductor Quechua ⇄ Español con RNN Many-to-Many
 
 Este proyecto implementa un sistema completo de **Traducción Automática (Machine Translation)** de **Quechua a Español** utilizando una **Red Neuronal Recurrente Simple (SimpleRNN)** con arquitectura **Many-to-Many (Secuencia a Secuencia / Seq2Seq)**, desarrollada en **Python**, **PyTorch** y con una interfaz gráfica web interactiva en **Streamlit**.
+<img width="1885" height="702" alt="image" src="https://github.com/user-attachments/assets/2b99eb2a-477c-4b05-b4fd-118c0e371c81" />
+<img width="1136" height="733" alt="image" src="https://github.com/user-attachments/assets/0559bc52-7f47-467b-98aa-80c62524f3c2" />
 
 ---
 
