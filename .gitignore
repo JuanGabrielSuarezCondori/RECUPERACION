@@ -1,0 +1,19 @@
+# Entornos virtuales y bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Descargas intermedias pesadas (los CSV limpios en data/ se conservan)
+data/raw/
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs temporales
+*.log

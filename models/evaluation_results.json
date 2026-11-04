@@ -1,0 +1,2764 @@
+{
+  "num_test_samples": 275,
+  "corpus_bleu_1": 31.0,
+  "corpus_bleu_2": 19.51,
+  "corpus_bleu_4": 9.58,
+  "avg_bleu_1": 40.64,
+  "avg_bleu_2": 31.23,
+  "avg_bleu_3": 24.16,
+  "avg_bleu_4": 18.19,
+  "exact_matches": 69,
+  "exact_match_ratio": 25.09,
+  "samples": [
+    {
+      "id": 0,
+      "quechua": "viudaqa hatun llakipim tarikun.",
+      "referencia": "la mujer está devastada.",
+      "prediccion": "El padre es muy diferente.",
+      "bleu1": 16.67,
+      "bleu2": 5.77,
+      "bleu4": 4.08,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 1,
+      "quechua": "¿nisqallantachu paganay kanqa?",
+      "referencia": "¿tendrá mi compra costos ocultos?",
+      "prediccion": "¿qué es el tono?",
+      "bleu1": 28.22,
+      "bleu2": 6.91,
+      "bleu4": 4.11,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 2,
+      "quechua": "valerieqa, ¿imanasqataq manaqa saqerurqachu?",
+      "referencia": "¿por qué decidió seguir con él, valerie?",
+      "prediccion": "¿qué qué se contestarán en el próximo artículo?",
+      "bleu1": 30.0,
+      "bleu2": 5.77,
+      "bleu4": 2.78,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 3,
+      "quechua": "¿allinta yachaykuspachu willakunku?",
+      "referencia": "¿cuántas fuentes hay?",
+      "prediccion": "¿qué es el objetivo?",
+      "bleu1": 33.33,
+      "bleu2": 8.16,
+      "bleu4": 4.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 4,
+      "quechua": "¿imaynam wiñanku chaykunata qawasqankurayku?",
+      "referencia": "¿cómo afecta este cambio a los niños?",
+      "prediccion": "¿qué significan estas para las familias?",
+      "bleu1": 22.06,
+      "bleu2": 5.27,
+      "bleu4": 2.92,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 5,
+      "quechua": "castakunapa cheqninakusqankumanta",
+      "referencia": "una visita a camboya",
+      "prediccion": "Cuatro personas",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 6,
+      "quechua": "¿ima ninantaq kayqa?",
+      "referencia": "¿qué significan estas palabras?",
+      "prediccion": "¿qué impresión tendrían?",
+      "bleu1": 49.12,
+      "bleu2": 31.71,
+      "bleu4": 10.29,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 7,
+      "quechua": "bibliam chayna kananmanta niwanchik.",
+      "referencia": "la biblia responde con otro rotundo sí.",
+      "prediccion": "Trate no es un grito.",
+      "bleu1": 11.94,
+      "bleu2": 4.14,
+      "bleu4": 2.93,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 8,
+      "quechua": "arí, ancha valorniyoq kapuwaqninchiktam qochwan.",
+      "referencia": "sí, podemos darle algo muy valioso.",
+      "prediccion": "En realidad, la vida eterna es posible.",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 9,
+      "quechua": "necesitasqaykichik kaqkunallapi reparaychik.",
+      "referencia": "evalúen su forma de ver las posesiones.",
+      "prediccion": "Mira que no sirvo.",
+      "bleu1": 10.98,
+      "bleu2": 3.88,
+      "bleu4": 2.95,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 10,
+      "quechua": "ayacuchomantam kani",
+      "referencia": "soy de ayacucho",
+      "prediccion": "Soy de ayacucho",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 11,
+      "quechua": "¿imaynatam atipawaq piñasqa kasqaykita?",
+      "referencia": "sembradores alados de la selva tropical",
+      "prediccion": "¿cómo lo logra?",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 12,
+      "quechua": "familiapaq yanapakuykuna  warmakuna uywaymanta",
+      "referencia": "ayuda para las familias  la crianza de los hijos",
+      "prediccion": "Ve a enseñanzas bíblicas niños",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 13,
+      "quechua": "¿imatataq yachachwan kayna nisqanmantaqa?",
+      "referencia": "¿qué aplicación tienen estas palabras?",
+      "prediccion": "¿qué qué lo que los testigos?",
+      "bleu1": 37.5,
+      "bleu2": 23.15,
+      "bleu4": 6.5,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 14,
+      "quechua": "hayk'aqmi tupasun",
+      "referencia": "¿cuándo nos veremos?",
+      "prediccion": "¿cuándo dónde lloras?",
+      "bleu1": 60.0,
+      "bleu2": 38.73,
+      "bleu4": 12.57,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 15,
+      "quechua": "puntataqa yanapawanchik mana unqunapaqmi.",
+      "referencia": "el primer beneficio es la salud.",
+      "prediccion": "Pero él vivió solo.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 16,
+      "quechua": "¿imatam ruwarqanki?",
+      "referencia": "¿qué decidió hacer?",
+      "prediccion": "¿qué es la biblia?",
+      "bleu1": 50.0,
+      "bleu2": 31.62,
+      "bleu4": 9.55,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 17,
+      "quechua": "achkallaña runakunam kuyan apu runataqa  proverbios  .",
+      "referencia": "proverbios  , versión israelita nazarena",
+      "prediccion": "La biblia es muy superior de la.",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 18,
+      "quechua": "ama suwa",
+      "referencia": "no seas ladrón",
+      "prediccion": "No seas ladrón",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 19,
+      "quechua": "¿imanasqataq davidqa jehová diosta alabarqa?",
+      "referencia": "¿qué impulsó a david a alabar a jehová?",
+      "prediccion": "¿qué qué se contestarán?",
+      "bleu1": 25.67,
+      "bleu2": 16.24,
+      "bleu4": 4.91,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 20,
+      "quechua": "ñuqanchik mikunchik",
+      "referencia": "nosotros comemos",
+      "prediccion": "Nosotros comemos",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 21,
+      "quechua": "ama llulla",
+      "referencia": "no seas mentiroso",
+      "prediccion": "No seas mentiroso",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 22,
+      "quechua": "nitaq wawata hina rimapayawanankutachu",
+      "referencia": "ya no soy un bebé",
+      "prediccion": "El órgano emisor de la araña común",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 23,
+      "quechua": "publicaciones  libros y folletos nisqanpi ñitiy",
+      "referencia": "haga clic en la sección publicaciones  libros y folletos",
+      "prediccion": "Haz clic en la sección enseñanzas bíblicas jóvenes",
+      "bleu1": 44.12,
+      "bleu2": 40.85,
+      "bleu4": 30.51,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 24,
+      "quechua": "ama qonqaychu, diosqa sientesunkim.",
+      "referencia": "recuerde que dios se preocupa por usted.",
+      "prediccion": "Pero él vivió de internet.",
+      "bleu1": 11.94,
+      "bleu2": 4.14,
+      "bleu4": 2.93,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 25,
+      "quechua": "chaypi kachkan",
+      "referencia": "está allí",
+      "prediccion": "Está allí",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 26,
+      "quechua": "paqarin kutimusaq",
+      "referencia": "mañana volveré",
+      "prediccion": "Mañana volveré",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 27,
+      "quechua": "allin tanteowan rimay.",
+      "referencia": "pregúntese si merece la pena discutir.",
+      "prediccion": "No es amor.",
+      "bleu1": 11.81,
+      "bleu2": 4.31,
+      "bleu4": 3.8,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 28,
+      "quechua": "casarakunaykipaq rimanakusqayki saqirusuptiki",
+      "referencia": "una visita a mongolia",
+      "prediccion": "Ayuda para las familias",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 29,
+      "quechua": "sutikunaqa cambiasqam kachkan.",
+      "referencia": "estuve de acuerdo con su decisión.",
+      "prediccion": "Se ha cambiado el nombre.",
+      "bleu1": 14.11,
+      "bleu2": 4.89,
+      "bleu4": 3.46,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 30,
+      "quechua": "panayqa takin",
+      "referencia": "mi hermana canta",
+      "prediccion": "Mi hermana canta",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 31,
+      "quechua": "troyqa, ¿warmacha kasqanmantachu maqakuqllaña karqa?",
+      "referencia": "troy, ¿ha sido siempre violento?",
+      "prediccion": "¿qué qué se contestarán en el control de jehová?",
+      "bleu1": 18.18,
+      "bleu2": 4.26,
+      "bleu4": 2.24,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 32,
+      "quechua": ".. casado vidaypi allin kaspaymi .",
+      "referencia": ".. un buen matrimonio .",
+      "prediccion": "No es muy solo.",
+      "bleu1": 16.37,
+      "bleu2": 5.79,
+      "bleu4": 4.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 33,
+      "quechua": "hichpaykichikpi kachkaptillanraqyá tayta diosta qayakuychik.",
+      "referencia": "clamen a él mientras resulte estar cerca.",
+      "prediccion": "En realidad a los judíos.",
+      "bleu1": 23.88,
+      "bleu2": 5.85,
+      "bleu4": 3.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 34,
+      "quechua": "¿imaynatam warmakunata corregina?",
+      "referencia": "cómo corregir a los hijos",
+      "prediccion": "¿cómo podemos imitar a obedecer?",
+      "bleu1": 28.57,
+      "bleu2": 6.9,
+      "bleu4": 3.93,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 35,
+      "quechua": "ñakarichikuq huchakuna ruraytaqa manataqmi munarqachu.",
+      "referencia": "quería evitar cometer errores dolorosos.",
+      "prediccion": "En realidad a los judíos.",
+      "bleu1": 16.67,
+      "bleu2": 5.77,
+      "bleu4": 4.08,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 36,
+      "quechua": "yakuta upyani",
+      "referencia": "bebo agua",
+      "prediccion": "Bebo agua",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 37,
+      "quechua": "aswanqa kuyanakunkum, uyarinakunkum hinaspa pampachanakunkum.",
+      "referencia": "estas cualidades hacen que una amistad valga la pena.",
+      "prediccion": "En realidad a la obediencia.",
+      "bleu1": 17.11,
+      "bleu2": 4.19,
+      "bleu4": 2.49,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 38,
+      "quechua": "kay cierto kasqantam juan sutiyoq runa yacharurqa ñakarisqankunawan.",
+      "referencia": "juan aprendió esta realidad por las malas.",
+      "prediccion": "La biblia acepta a la desgracia de la.",
+      "bleu1": 11.11,
+      "bleu2": 3.73,
+      "bleu4": 2.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 39,
+      "quechua": "ama iskayrayaspa kamachiy.",
+      "referencia": "sea claro y directo.",
+      "prediccion": "Piense en las cosas.",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 40,
+      "quechua": "paqarinmi tupasun",
+      "referencia": "mañana nos veremos",
+      "prediccion": "Mañana en el pueblo",
+      "bleu1": 25.0,
+      "bleu2": 9.13,
+      "bleu4": 8.03,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 41,
+      "quechua": "atisqanchikman hina imatapas rurananchikmi.",
+      "referencia": "hasta donde sea posible.",
+      "prediccion": "Trate de la pagan de la vida.",
+      "bleu1": 12.5,
+      "bleu2": 4.23,
+      "bleu4": 2.78,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 42,
+      "quechua": "kutimusaq",
+      "referencia": "voy a volver",
+      "prediccion": "Voy a volver",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 43,
+      "quechua": "¿llapaykuchu ruwaniku?",
+      "referencia": "¿cómo funciona el equipo?",
+      "prediccion": "¿qué es la persona?",
+      "bleu1": 33.33,
+      "bleu2": 8.16,
+      "bleu4": 4.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 44,
+      "quechua": "wañuqkuna kawsarimusqankumanta bibliapi willakusqanpim hawkayayta tarichwan.",
+      "referencia": "podemos obtenerlo de los relatos bíblicos de resurrecciones.",
+      "prediccion": "La biblia, la desgracia de la..",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 45,
+      "quechua": "diosnikipaqmi humillakuspa kawsanayki , nispa.",
+      "referencia": "además, dios quiere que le sirvamos por amor.",
+      "prediccion": "Pero él vivió de internet.",
+      "bleu1": 8.56,
+      "bleu2": 2.96,
+      "bleu4": 2.1,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 46,
+      "quechua": "ñuqa puñuni",
+      "referencia": "yo duermo",
+      "prediccion": "Yo duermo",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 47,
+      "quechua": "manaraq apachichkaspa imayna qellqasqaykipi reparay.",
+      "referencia": "piensa antes de oprimir el botón de enviar.",
+      "prediccion": "En realidad a la obediencia.",
+      "bleu1": 10.11,
+      "bleu2": 3.5,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 48,
+      "quechua": "bibliam nim",
+      "referencia": "la biblia dice",
+      "prediccion": "Voy a la escuela",
+      "bleu1": 25.0,
+      "bleu2": 9.13,
+      "bleu4": 8.03,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 49,
+      "quechua": "imanchiktapas hukkunaman quykuqyá kasun",
+      "referencia": "sea generoso y comparta lo que tiene",
+      "prediccion": "El arte de responsabilidades",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 50,
+      "quechua": "ñawpaqqa tayta - mamakunam warmankuta kamachiqku, paykunañataqmi kasukuqku.",
+      "referencia": "antes, los padres mandaban, y los hijos obedecían.",
+      "prediccion": "La biblia es muy violento.",
+      "bleu1": 7.24,
+      "bleu2": 2.51,
+      "bleu4": 1.77,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 51,
+      "quechua": "jehová diospa suma - sumaq kayninta chaninchasun",
+      "referencia": "valoremos la cualidad sobresaliente de jehová",
+      "prediccion": "Pedir de portada se utiliza en la",
+      "bleu1": 28.57,
+      "bleu2": 6.9,
+      "bleu4": 3.93,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 52,
+      "quechua": "diosman asuykuyta ama saqiychu.",
+      "referencia": "cuide su salud espiritual.",
+      "prediccion": "Trate no es muy diferente.",
+      "bleu1": 16.67,
+      "bleu2": 5.77,
+      "bleu4": 4.08,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 53,
+      "quechua": "misi puñun",
+      "referencia": "el gato duerme",
+      "prediccion": "El gato duerme",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 54,
+      "quechua": "bibliapi ester qillqapa  , cq nisqanta leey.",
+      "referencia": "lea ester   en la biblia.",
+      "prediccion": "La biblia, la desgracia de la situación.",
+      "bleu1": 33.33,
+      "bleu2": 20.41,
+      "bleu4": 5.61,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 55,
+      "quechua": "b ¿imakunatam ruran cuerponchikpi rurunninchikkuna?",
+      "referencia": "b ¿cuál es la función de los riñones?",
+      "prediccion": "¿qué se puede concluir de jehová?",
+      "bleu1": 29.21,
+      "bleu2": 5.7,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 56,
+      "quechua": "allin correginamanta",
+      "referencia": "la buena disciplina",
+      "prediccion": "Nosotros trabajamos",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 57,
+      "quechua": "sarata tarpuni",
+      "referencia": "siembro maíz",
+      "prediccion": "Siembro maíz",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 58,
+      "quechua": "wakin sutikunaqa cambiasqam kachkan.",
+      "referencia": "se han cambiado algunos nombres",
+      "prediccion": "La matemática de que se marchó.",
+      "bleu1": 14.29,
+      "bleu2": 4.88,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 59,
+      "quechua": "karunchakuychikyá taytacha - mamachakunamantaqa.",
+      "referencia": "guárdense de los ídolos.",
+      "prediccion": "Trate de que se redacta en su..",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 60,
+      "quechua": "maymantataq kanki?",
+      "referencia": "¿de dónde eres tú?",
+      "prediccion": "¿de dónde eres tú?",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 61,
+      "quechua": "diana  sutiyoq sipasqa yachayniyoq hinaspa sumaq sipasmi.",
+      "referencia": "diana  es una joven inteligente, simpática y sociable.",
+      "prediccion": "La biblia, la biblia de la..",
+      "bleu1": 19.89,
+      "bleu2": 4.72,
+      "bleu4": 2.55,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 62,
+      "quechua": "yaqa lliw runakunam haykapipas sapallan kasqankuta sientekurqaku.",
+      "referencia": "casi todo el mundo se siente solo alguna vez.",
+      "prediccion": "La biblia es muy violento de la.",
+      "bleu1": 9.74,
+      "bleu2": 3.29,
+      "bleu4": 2.16,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 63,
+      "quechua": "¿imaynatam ima onqoyniyoq kaspaypas hawkalla kayman?",
+      "referencia": "¿cómo puedo sobrellevar mi enfermedad?",
+      "prediccion": "¿qué le despertó el control de jehová?",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 64,
+      "quechua": "bibliaqa niwanchikmi kallpanchakuspaqa allin costumbreyuq kayta allimanta atinamanta.",
+      "referencia": "la biblia recomienda pensar a largo plazo.",
+      "prediccion": "Pero no, la, y y..",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 65,
+      "quechua": "¿imam yanaparqa atipananpaq?",
+      "referencia": "¿qué le permitió superarlas?",
+      "prediccion": "¿cómo lo convenció?",
+      "bleu1": 32.75,
+      "bleu2": 8.19,
+      "bleu4": 5.23,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 66,
+      "quechua": "pishqu pawan",
+      "referencia": "el ave vuela",
+      "prediccion": "El ave vuela",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 67,
+      "quechua": "chay unquykunapaqqa kanmi yanapakuykuna.",
+      "referencia": "afortunadamente, este tipo de enfermedades tiene tratamiento.",
+      "prediccion": "Trate de que se porta de.",
+      "bleu1": 21.47,
+      "bleu2": 5.19,
+      "bleu4": 2.95,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 68,
+      "quechua": "¿reqsichkanchikñachu yachachikuyninkunata?",
+      "referencia": "¿por qué no familiarizarnos con él?",
+      "prediccion": "¿qué es el tono?",
+      "bleu1": 35.83,
+      "bleu2": 7.17,
+      "bleu4": 3.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 69,
+      "quechua": "ñuqa llamkaq kani",
+      "referencia": "yo soy trabajador",
+      "prediccion": "Yo soy trabajador",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 70,
+      "quechua": "ichaqa manamá allinchu chay ruwayqa.",
+      "referencia": "pero la violencia doméstica no tiene nada de normal.",
+      "prediccion": "En realidad es, algo de.",
+      "bleu1": 18.61,
+      "bleu2": 4.5,
+      "bleu4": 2.56,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 71,
+      "quechua": "wasimantam hamuni",
+      "referencia": "vengo de la casa",
+      "prediccion": "Mi abuela me contó",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 72,
+      "quechua": "chaymantayá yachasun.",
+      "referencia": "veamos algunos ejemplos.",
+      "prediccion": "Porque es un tremendo.",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 73,
+      "quechua": "manam riqsirqanichu chiqap diostaqa.",
+      "referencia": "no sabía nada del dios verdadero.",
+      "prediccion": "La biblia se puede comenzar para las cosas.",
+      "bleu1": 11.11,
+      "bleu2": 3.73,
+      "bleu4": 2.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 74,
+      "quechua": "mashka watayuqtaq kanki",
+      "referencia": "¿cuántos años tienes?",
+      "prediccion": "¿cuántos años tienes?",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 75,
+      "quechua": "yaqa  runakunam qillqarqaku.",
+      "referencia": "unos  hombres hicieron de secretarios o escribas.",
+      "prediccion": "Mira el ejemplo.",
+      "bleu1": 9.2,
+      "bleu2": 3.36,
+      "bleu4": 2.96,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 76,
+      "quechua": "qam takinki",
+      "referencia": "tú cantas",
+      "prediccion": "Tú cantas",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 77,
+      "quechua": "sumaq punchaw",
+      "referencia": "día hermoso",
+      "prediccion": "Día hermoso",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 78,
+      "quechua": "panayqa takin",
+      "referencia": "mi hermana canta",
+      "prediccion": "Mi hermana canta",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 79,
+      "quechua": "sutiyqa juanmi",
+      "referencia": "mi nombre es juan",
+      "prediccion": "Mi nombre es juan",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 80,
+      "quechua": "chunka watayuqmi kani",
+      "referencia": "tengo diez años",
+      "prediccion": "Tengo veinte años",
+      "bleu1": 66.67,
+      "bleu2": 18.26,
+      "bleu4": 13.51,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 81,
+      "quechua": "qillqachkani",
+      "referencia": "estoy escribiendo",
+      "prediccion": "Estoy escribiendo",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 82,
+      "quechua": "¿chayna allin amistadchu qampas kanki?",
+      "referencia": "¿eres tú esta clase de amigo?",
+      "prediccion": "¿qué qué no actuó un muchacho?",
+      "bleu1": 25.0,
+      "bleu2": 5.98,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 83,
+      "quechua": "kasukuq kananpaq",
+      "referencia": ".. a ser obedientes.",
+      "prediccion": "Los hombres caminan",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 84,
+      "quechua": "amayá adoraychikchu taytacha - mamachakunataqa , nispa.",
+      "referencia": "huyan de la idolatría .",
+      "prediccion": "Pero él vivió según el doctor.",
+      "bleu1": 14.29,
+      "bleu2": 4.88,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 85,
+      "quechua": "bibliam consejan  pedro  .",
+      "referencia": "principio bíblico  pedro  .",
+      "prediccion": "Texto bíblico clave filipenses.",
+      "bleu1": 40.0,
+      "bleu2": 10.0,
+      "bleu4": 6.39,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 86,
+      "quechua": "chay runapa nisqanman hinam achka runakuna piensanku.",
+      "referencia": "mucha gente concuerda con esta opinión.",
+      "prediccion": "La biblia, la biblia de la..",
+      "bleu1": 11.11,
+      "bleu2": 3.73,
+      "bleu4": 2.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 87,
+      "quechua": "a ¿imatam estebanpa rurasqanqa yachachiwanchik?",
+      "referencia": "a ¿qué podemos aprender del ejemplo de esteban?",
+      "prediccion": "¿qué qué rechazó ¿cómo puede consolarnos?",
+      "bleu1": 29.83,
+      "bleu2": 18.27,
+      "bleu4": 5.02,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 88,
+      "quechua": "valerie mancharisqallañam kawsarqani.",
+      "referencia": "valerie vivía en constante temor.",
+      "prediccion": "Mira de las cosas.",
+      "bleu1": 16.37,
+      "bleu2": 5.79,
+      "bleu4": 4.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 89,
+      "quechua": "wakinpiqa yawarniypas sutunankama maqawaspanmi desmayachiwaq.",
+      "referencia": "a veces me dejaba inconsciente y sangrando.",
+      "prediccion": "Trate no se halla en el.",
+      "bleu1": 12.38,
+      "bleu2": 4.23,
+      "bleu4": 2.86,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 90,
+      "quechua": "ichaqa mana allin costumbrekuna saqiyqa sasam.",
+      "referencia": "sin duda, abandonar una mala costumbre no es fácil.",
+      "prediccion": "Pero él vivió según el dinero.",
+      "bleu1": 8.07,
+      "bleu2": 2.76,
+      "bleu4": 1.87,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 91,
+      "quechua": "ayllukunapaq yanapakuykuna  warmakuna uywaymanta",
+      "referencia": "ayuda para las familias  la crianza de los hijos",
+      "prediccion": "Ve a enseñanzas bíblicas niños",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 92,
+      "quechua": "mikuchkani",
+      "referencia": "estoy comiendo",
+      "prediccion": "Estoy escribiendo",
+      "bleu1": 50.0,
+      "bleu2": 22.36,
+      "bleu4": 14.95,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 93,
+      "quechua": "kunanqa piwanpas amistad armaytam atini.",
+      "referencia": "ahora soy más sociable y adaptable.",
+      "prediccion": "En realidad a la delincuencia.",
+      "bleu1": 14.11,
+      "bleu2": 4.89,
+      "bleu4": 3.46,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 94,
+      "quechua": "ichapas paykuna hina kasqaykita musyakunki.",
+      "referencia": "quizás piense que usted es como ellos.",
+      "prediccion": "Trate de la pagan de la vida.",
+      "bleu1": 12.5,
+      "bleu2": 4.23,
+      "bleu4": 2.78,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 95,
+      "quechua": "misi puñun",
+      "referencia": "el gato duerme",
+      "prediccion": "El gato duerme",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 96,
+      "quechua": "allillanchu",
+      "referencia": "¿cómo estás?",
+      "prediccion": "¿cómo estás?",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 97,
+      "quechua": "genionta controlananpaq mana yachachisqaqa sasachakuypim tarikunmanku.",
+      "referencia": "las consecuencias de no enseñarles a controlarse.",
+      "prediccion": "Pero no es vanidad a la..",
+      "bleu1": 37.5,
+      "bleu2": 7.32,
+      "bleu4": 3.66,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 98,
+      "quechua": "para paramun",
+      "referencia": "está lloviendo",
+      "prediccion": "Está lloviendo",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 99,
+      "quechua": "kanmi imapaqpas tiempo.",
+      "referencia": "para todo hay un tiempo.",
+      "prediccion": "Mira que de la.",
+      "bleu1": 16.37,
+      "bleu2": 5.79,
+      "bleu4": 4.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 100,
+      "quechua": "epigenoma nisqaqa manam chaynallachu adn nisqawanqa.",
+      "referencia": "las moléculas del epigenoma son completamente distintas al adn.",
+      "prediccion": "En realidad a la esperanza.",
+      "bleu1": 8.56,
+      "bleu2": 2.96,
+      "bleu4": 2.1,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 101,
+      "quechua": "churilláy yachayniyoq kaspayá kusiriykachiy sonqoyta.",
+      "referencia": "sé sabio, hijo mío, y regocija mi corazón.",
+      "prediccion": "Trate de que se redacta en la.",
+      "bleu1": 8.59,
+      "bleu2": 2.9,
+      "bleu4": 1.91,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 102,
+      "quechua": "warmaykiwan rimay.",
+      "referencia": "hable con su hijo.",
+      "prediccion": "Deseo de manipular.",
+      "bleu1": 19.47,
+      "bleu2": 7.11,
+      "bleu4": 6.26,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 103,
+      "quechua": "hukkunapa waqasqanta qawaspapas waqanchikmi.",
+      "referencia": "además, el llanto es contagioso.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 104,
+      "quechua": "diostaqa nananmi ñakariptinchik.",
+      "referencia": "dios sufre con nosotros.",
+      "prediccion": "Mira en el lugar.",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 105,
+      "quechua": "ichaqa diospipas creerqanitaqmi.",
+      "referencia": "pero a la vez creía en dios.",
+      "prediccion": "No se dé.",
+      "bleu1": 9.2,
+      "bleu2": 3.36,
+      "bleu4": 2.96,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 106,
+      "quechua": "mana allinta rurawasqanchikmanta, ¿pikunatam astawanqa mana chaynallataqa kutichinanchikchu?",
+      "referencia": "¿a quiénes no debemos devolver mal por mal?",
+      "prediccion": "¿qué qué no aprendió?",
+      "bleu1": 25.67,
+      "bleu2": 5.13,
+      "bleu4": 2.76,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 107,
+      "quechua": "bibliam consejan colosenses  .",
+      "referencia": "principio bíblico colosenses  .",
+      "prediccion": "Texto bíblico clave.",
+      "bleu1": 50.0,
+      "bleu2": 12.91,
+      "bleu4": 9.55,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 108,
+      "quechua": "ichaqa manam sapallayki tarikuspachu sapallaykiqa sientekunayki.",
+      "referencia": "pero no por estar solo debes sentirte solo.",
+      "prediccion": "Pero no es muy violento.",
+      "bleu1": 30.33,
+      "bleu2": 19.18,
+      "bleu4": 5.8,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 109,
+      "quechua": "pisqukuna takinku",
+      "referencia": "los pájaros cantan",
+      "prediccion": "Los pájaros cantan",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 110,
+      "quechua": "inti kanchamun",
+      "referencia": "el sol brilla",
+      "prediccion": "El sol brilla",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 111,
+      "quechua": "ñawpa tiempota qawarisun  documento",
+      "referencia": "una ventana al pasado  el requerimiento",
+      "prediccion": "El que descomponen a su matrimonio",
+      "bleu1": 16.67,
+      "bleu2": 5.77,
+      "bleu4": 4.08,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 112,
+      "quechua": "pay tusun",
+      "referencia": "él baila",
+      "prediccion": "Él baila",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 113,
+      "quechua": "misi anchatam puñun",
+      "referencia": "el gato duerme mucho",
+      "prediccion": "El gato duerme mucho",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 114,
+      "quechua": "yanapawanankupaq consejokunata tariyqa allinmi kanman",
+      "referencia": "nos vendría bien un poco de ayuda",
+      "prediccion": "Ve a enseñanzas bíblicas jóvenes",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 115,
+      "quechua": "manam pipas tiempo wataytaqa atinmanchu.",
+      "referencia": "se va para no volver.",
+      "prediccion": "En realidad a la.",
+      "bleu1": 16.37,
+      "bleu2": 5.79,
+      "bleu4": 4.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 116,
+      "quechua": "urquqa hatunmi",
+      "referencia": "la montaña es grande",
+      "prediccion": "La montaña es grande",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 117,
+      "quechua": "plantakunawan animalkuna",
+      "referencia": "ayuda para las familias",
+      "prediccion": "Cuatro personas",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 118,
+      "quechua": "wakinkum llullakunku mana allinta ruwanankupaq.",
+      "referencia": "algunas se dicen para hacer daño.",
+      "prediccion": "No se preocupen de lo que enseña.",
+      "bleu1": 25.0,
+      "bleu2": 5.98,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 119,
+      "quechua": "sutikunaqa cambiasqam kachkan.",
+      "referencia": "se han cambiado los nombres.",
+      "prediccion": "Se ha cambiado el nombre.",
+      "bleu1": 50.0,
+      "bleu2": 10.0,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 120,
+      "quechua": "chaynaqa ¿hayka tiempo kawsaytam atinchikman?",
+      "referencia": "entonces, ¿cuánto tiempo se puede vivir?",
+      "prediccion": "¿qué qué rechazó el control de jehová?",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 121,
+      "quechua": "qawasunyá bibliapa ima nisqanmanta.",
+      "referencia": "fíjese en lo que dice la biblia",
+      "prediccion": "El amor se enfureció de su hijo.",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 122,
+      "quechua": "wakinpiqa pantankum.",
+      "referencia": "los periodistas son seres humanos y cometen errores.",
+      "prediccion": "Sepa a diferenciar.",
+      "bleu1": 7.16,
+      "bleu2": 2.62,
+      "bleu4": 2.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 123,
+      "quechua": "yanapay imawan unqusqanmanta astawan yachananpaq.",
+      "referencia": "ayúdelo a buscar información sobre la enfermedad que tiene.",
+      "prediccion": "En realidad a la obediencia.",
+      "bleu1": 25.67,
+      "bleu2": 5.13,
+      "bleu4": 2.76,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 124,
+      "quechua": "qollqeqa waqaychakunmi.",
+      "referencia": "el dinero es para una protección.",
+      "prediccion": "Principio bíblico clave.",
+      "bleu1": 11.81,
+      "bleu2": 4.31,
+      "bleu4": 3.8,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 125,
+      "quechua": "¿warmachallaraq kasqanraykuchu chayna kanku?",
+      "referencia": "¿será algo de la edad?",
+      "prediccion": "¿qué qué le pareció a los testigos?",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 126,
+      "quechua": "¿kikillanmantachu rikurirqa?",
+      "referencia": "el racismo  ¿casualidad o diseño?",
+      "prediccion": "¿casualidad o diseño?",
+      "bleu1": 67.03,
+      "bleu2": 67.03,
+      "bleu4": 67.03,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 127,
+      "quechua": "chayraq mozoyaq warmakunata correginankupaq wasipim iskay wata karqani.",
+      "referencia": "de adolescente pasé dos años en un reformatorio.",
+      "prediccion": "Pero él vivió, la vida eterna es cierto.",
+      "bleu1": 10.0,
+      "bleu2": 3.33,
+      "bleu4": 2.11,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 128,
+      "quechua": "¿imapaqmi kawsanchik?",
+      "referencia": "¿por qué existimos?",
+      "prediccion": "¿cómo lo hacen?",
+      "bleu1": 40.0,
+      "bleu2": 10.0,
+      "bleu4": 6.39,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 129,
+      "quechua": "chaymantapas kuyakusqanchiktam qawachinchik.",
+      "referencia": "en segundo lugar, es una muestra de amor.",
+      "prediccion": "Mira de manipular.",
+      "bleu1": 11.16,
+      "bleu2": 2.88,
+      "bleu4": 2.13,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 130,
+      "quechua": "¿imatam nehemiasqa rurarqa enemigonkunapa yanqa tumpasqankumanta?",
+      "referencia": "¿cómo reaccionó nehemías ante los ataques de sus enemigos?",
+      "prediccion": "¿qué qué se contestarán?",
+      "bleu1": 14.49,
+      "bleu2": 3.55,
+      "bleu4": 2.11,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 131,
+      "quechua": "cuartopa alto qatallantam qawayta atirqani.",
+      "referencia": "todo lo que podía hacer era mirar al techo.",
+      "prediccion": "Trate de captar se porta de su.",
+      "bleu1": 9.74,
+      "bleu2": 3.29,
+      "bleu4": 2.16,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 132,
+      "quechua": "paymi nin chaypim wawayta wachakurqani.",
+      "referencia": "ella dice allí di a luz a mi nena.",
+      "prediccion": "En realidad a dios tuvieron emociones.",
+      "bleu1": 18.61,
+      "bleu2": 4.5,
+      "bleu4": 2.56,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 133,
+      "quechua": "rupha yaku",
+      "referencia": "agua caliente",
+      "prediccion": "Agua caliente",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 134,
+      "quechua": "chayraykum qollqeykuqa tukururqa , nispa.",
+      "referencia": "¡se nos acabó el dinero! .",
+      "prediccion": "Pero él vivió de internet.",
+      "bleu1": 11.94,
+      "bleu2": 4.14,
+      "bleu4": 2.93,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 135,
+      "quechua": "¿ima ninantaq iñiyniyoq kayqa?",
+      "referencia": "¿qué implica la fe?",
+      "prediccion": "¿qué qué opinaban el control de jehová?",
+      "bleu1": 33.33,
+      "bleu2": 20.41,
+      "bleu4": 5.61,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 136,
+      "quechua": "ima sasachakuytapas kuska allichaychik.",
+      "referencia": "busque soluciones junto con su esposa.",
+      "prediccion": "Trate no es muy diferente.",
+      "bleu1": 14.11,
+      "bleu2": 4.89,
+      "bleu4": 3.46,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 137,
+      "quechua": "ama qonqaychu allin ruwaq kasqaykita.",
+      "referencia": "no olvides tus valores.",
+      "prediccion": "La gente es muy diferente a su.",
+      "bleu1": 12.5,
+      "bleu2": 4.23,
+      "bleu4": 2.78,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 138,
+      "quechua": "warmaykikunaqa manam kasukunkuchu.",
+      "referencia": "es cierto que sus hijos desobedecieron.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 139,
+      "quechua": "mana qonqay atina diosta servispa aguantasqankumanta",
+      "referencia": "un imborrable historial de aguante",
+      "prediccion": "Cómo mitigar a controlar",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 140,
+      "quechua": "chayna kasqaymantam niq kani.",
+      "referencia": "¡claro! , respondía yo.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 141,
+      "quechua": "wasiman rini",
+      "referencia": "voy a la casa",
+      "prediccion": "Voy a la casa",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 142,
+      "quechua": "¿imaynatam biblia yanapawanchik?",
+      "referencia": "¿y cómo nos equipa la biblia?",
+      "prediccion": "¿cómo lo logra?",
+      "bleu1": 32.93,
+      "bleu2": 6.72,
+      "bleu4": 3.88,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 143,
+      "quechua": "hatun pantaychá kanman kayna piensayqa.",
+      "referencia": "eso sería un gran error.",
+      "prediccion": "La biblia de que se marchó.",
+      "bleu1": 14.29,
+      "bleu2": 4.88,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 144,
+      "quechua": "kimsa kaq, ¿kawsayninchikpi imaynatam yanapawanchikman?",
+      "referencia": "y tercero, ¿cómo puede influir en nuestra vida actual?",
+      "prediccion": "¿qué qué rechazó a ¿cómo puede consolarnos personalmente?",
+      "bleu1": 33.2,
+      "bleu2": 24.62,
+      "bleu4": 9.15,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 145,
+      "quechua": "¿manachu ñakakunkichik tukuy imayoq kaynikichik saqesqaykichikmanta?",
+      "referencia": "¿creen que han salido ganando?",
+      "prediccion": "¿qué qué se contestarán en la resurrección?",
+      "bleu1": 22.22,
+      "bleu2": 5.27,
+      "bleu4": 2.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 146,
+      "quechua": "payqa sapa kutim qusanwan lirianakuqku.",
+      "referencia": "su esposo y ella se peleaban todo el tiempo.",
+      "prediccion": "En realidad es muy diferente.",
+      "bleu1": 8.56,
+      "bleu2": 2.96,
+      "bleu4": 2.1,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 147,
+      "quechua": "ama suwa",
+      "referencia": "no seas ladrón",
+      "prediccion": "No seas ladrón",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 148,
+      "quechua": "¿ima ninkitaq?",
+      "referencia": "¿qué le parece?",
+      "prediccion": "¿cómo qué estamos?",
+      "bleu1": 60.0,
+      "bleu2": 12.25,
+      "bleu4": 7.07,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 149,
+      "quechua": "llaqtapi tiyani",
+      "referencia": "vivo en el pueblo",
+      "prediccion": "Vivo en el pueblo",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 150,
+      "quechua": "kusisqa kaspaymi takini",
+      "referencia": "porque estoy alegre canto",
+      "prediccion": "Porque estoy alegre canto",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 151,
+      "quechua": "ichaqa wakin ruwaykunapaqqa allinta piensarispam tanteakuna.",
+      "referencia": "es cierto que hay decisiones que exigen reflexión cuidadosa.",
+      "prediccion": "Pero él vivió de la vida.",
+      "bleu1": 9.31,
+      "bleu2": 3.18,
+      "bleu4": 2.15,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 152,
+      "quechua": "chaymantapacham cura kayta munarqani.",
+      "referencia": "de ahí me vino el deseo de ser sacerdote.",
+      "prediccion": "Trate de que se porta.",
+      "bleu1": 17.11,
+      "bleu2": 4.19,
+      "bleu4": 2.49,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 153,
+      "quechua": "chayta allichaychik.",
+      "referencia": "ataquen la raíz.",
+      "prediccion": "Deseo de manipular.",
+      "bleu1": 25.0,
+      "bleu2": 9.13,
+      "bleu4": 8.03,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 154,
+      "quechua": "iskay chunka watayuqmi kani",
+      "referencia": "tengo veinte años",
+      "prediccion": "Tengo veinte años",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 155,
+      "quechua": "mamayqa kuyasqam",
+      "referencia": "mi madre es amada",
+      "prediccion": "Mi madre es amada",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 156,
+      "quechua": "minchham hamusaq",
+      "referencia": "pasado mañana vendré",
+      "prediccion": "Pasado mañana vendré",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 157,
+      "quechua": "wawqiyqa pukllan",
+      "referencia": "mi hermano juega",
+      "prediccion": "Mi hija baila",
+      "bleu1": 33.33,
+      "bleu2": 12.91,
+      "bleu4": 11.36,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 158,
+      "quechua": "kay rurasqanmi jehová diospaqqa mana allinchu karqa.",
+      "referencia": "este acto desagradó mucho a jehová.",
+      "prediccion": "Pero no, plenamente en la vida eterna es posible.",
+      "bleu1": 9.09,
+      "bleu2": 3.02,
+      "bleu4": 1.89,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 159,
+      "quechua": "ñitiy kayna niqpi enseñanzas bíblicas  niños",
+      "referencia": "haga clic en la sección enseñanzas bíblicas  niños",
+      "prediccion": "Ve a enseñanzas bíblicas niños",
+      "bleu1": 32.93,
+      "bleu2": 30.06,
+      "bleu4": 14.59,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 160,
+      "quechua": "pantaruspaqa ama hukmanyaychu.",
+      "referencia": "no sea perfeccionista.",
+      "prediccion": "No se dé.",
+      "bleu1": 50.0,
+      "bleu2": 12.91,
+      "bleu4": 9.55,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 161,
+      "quechua": "atikusqanman hina parlaychik.",
+      "referencia": "charle con él siempre que sea posible.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 10.98,
+      "bleu2": 3.88,
+      "bleu4": 2.95,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 162,
+      "quechua": "yachaywan allin tanteaytaqa amayá qonqaychu.  proverbios  , nm",
+      "referencia": "salvaguarda la sabiduría práctica y la capacidad de pensar.",
+      "prediccion": "La biblia, el rey, la biblia",
+      "bleu1": 19.47,
+      "bleu2": 4.65,
+      "bleu4": 2.57,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 163,
+      "quechua": "ama llumpaytaqa hukmanyaychu imayna ninaykimantaqa.",
+      "referencia": "no se preocupe demasiado sobre qué decir.",
+      "prediccion": "Trate de captar se redacta en la.",
+      "bleu1": 25.0,
+      "bleu2": 5.98,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 164,
+      "quechua": "kallpanchakuy ama llumpay llakisqa kanaykipaq.",
+      "referencia": "acepta que te duele.",
+      "prediccion": "En realidad a la.",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 165,
+      "quechua": "musuq pacha",
+      "referencia": "ropa nueva",
+      "prediccion": "Ropa nueva",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 166,
+      "quechua": "timothy, ¿imapitaq llamkarqanki?",
+      "referencia": "¿a qué se dedicaban antes?",
+      "prediccion": "¿qué qué se contestarán?",
+      "bleu1": 56.43,
+      "bleu2": 30.91,
+      "bleu4": 8.69,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 167,
+      "quechua": "¿yapatapas yanapawanmanchu? , nispa.",
+      "referencia": "¿cómo puedo repetirlo? .",
+      "prediccion": "¿qué es no se lo mismo.",
+      "bleu1": 25.0,
+      "bleu2": 5.98,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 168,
+      "quechua": "yakuta munani",
+      "referencia": "quiero agua",
+      "prediccion": "Quiero agua",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 169,
+      "quechua": "allin runa",
+      "referencia": "buen hombre",
+      "prediccion": "Buen hombre",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 170,
+      "quechua": "allintayá internetta servichikuy",
+      "referencia": "si usas las redes, no te enredes",
+      "prediccion": "Las personas trabajan",
+      "bleu1": 6.3,
+      "bleu2": 2.44,
+      "bleu4": 2.15,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 171,
+      "quechua": "chunka watayuqmi kani",
+      "referencia": "tengo diez años",
+      "prediccion": "Tengo veinte años",
+      "bleu1": 66.67,
+      "bleu2": 18.26,
+      "bleu4": 13.51,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 172,
+      "quechua": "wakin mozo - sipaskunapa ima piensasqanku",
+      "referencia": "lo que opinan otros jóvenes",
+      "prediccion": "El sistema reproductivo de la rana incubadora gástrica",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 173,
+      "quechua": "nanay simikunam rimanku espadawan tuksichkaq hina.",
+      "referencia": "cada uno llevará su propia carga de responsabilidad.",
+      "prediccion": "En realidad a dios tuvieron emociones.",
+      "bleu1": 10.74,
+      "bleu2": 3.67,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 174,
+      "quechua": "imaynata runamasikita yanapanaykipaq yuyaymanay.",
+      "referencia": "busque oportunidades para hacer cosas por otras personas.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 8.99,
+      "bleu2": 3.18,
+      "bleu4": 2.41,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 175,
+      "quechua": "¡manam yachankuchu hayka kutikama chay ruwasqayta!",
+      "referencia": "¡no se imaginan cuántas veces lo he intentado!",
+      "prediccion": "¡qué gran privilegio!",
+      "bleu1": 14.72,
+      "bleu2": 3.68,
+      "bleu4": 2.35,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 176,
+      "quechua": "taytayqa llamkan",
+      "referencia": "mi padre trabaja",
+      "prediccion": "Mi padre trabaja",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 177,
+      "quechua": "mozo - sipasyaqkunaqa manam yuyayniyuq runakuna hinaraqchu.",
+      "referencia": "pubertad no es lo mismo que madurez.",
+      "prediccion": "La biblia es muy violento.",
+      "bleu1": 23.88,
+      "bleu2": 5.85,
+      "bleu4": 3.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 178,
+      "quechua": "abueloyqa kawsan",
+      "referencia": "mi abuelo vive",
+      "prediccion": "Mi abuelo vive",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 179,
+      "quechua": "pampachay  ninanqa ima ninan kasqanpi yuyaymanay.",
+      "referencia": "medite en el significado de la palabra perdonar.",
+      "prediccion": "En realidad a la obediencia.",
+      "bleu1": 30.33,
+      "bleu2": 6.07,
+      "bleu4": 3.26,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 180,
+      "quechua": "mamayqa kuyasqam",
+      "referencia": "mi madre es amada",
+      "prediccion": "Mi madre es amada",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 181,
+      "quechua": "¿saulqa mana kasukusqanmanta imallatapas yacharunmanchu karqa?",
+      "referencia": "¿aprendió saúl la lección?",
+      "prediccion": "¿qué qué se contestarán en la disciplina?",
+      "bleu1": 33.33,
+      "bleu2": 6.45,
+      "bleu4": 3.16,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 182,
+      "quechua": "chaymi yanapayta munanchik.",
+      "referencia": "por eso, nuestra reacción natural es tratar de ayudar.",
+      "prediccion": "Trate las cosas que se marchó.",
+      "bleu1": 8.07,
+      "bleu2": 2.76,
+      "bleu4": 1.87,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 183,
+      "quechua": "¿bibliapi ima yachachikuykunam yanaparqa?",
+      "referencia": "¿qué principios bíblicos le ayudaron a cambiar?",
+      "prediccion": "¿qué qué se replanteó el impulso de jehová?",
+      "bleu1": 30.0,
+      "bleu2": 18.26,
+      "bleu4": 4.94,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 184,
+      "quechua": "qollqewanmi mana allin ruwaykunaqa rikurin.",
+      "referencia": "el dinero es la raíz de todos los males.",
+      "prediccion": "Hay que se redacta en inglés.",
+      "bleu1": 9.31,
+      "bleu2": 3.18,
+      "bleu4": 2.15,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 185,
+      "quechua": "payqa allin kawsakuytam tarirurqa.",
+      "referencia": "había llenado el vacío que sentía.",
+      "prediccion": "Trate no es muy diferente.",
+      "bleu1": 14.11,
+      "bleu2": 4.89,
+      "bleu4": 3.46,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 186,
+      "quechua": "huk kutipim señorayta pistolawan waqtarurqani.",
+      "referencia": "en cierta ocasión golpeé a valerie con una pistola.",
+      "prediccion": "En realidad a los preceptos.",
+      "bleu1": 25.67,
+      "bleu2": 5.13,
+      "bleu4": 2.76,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 187,
+      "quechua": "¿lliw noticiakunapichu confiana?",
+      "referencia": "entrevista un pianista explica por qué cree en dios",
+      "prediccion": "¿cómo lo que los videojuegos?",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 188,
+      "quechua": "chaynatamá achka wawqe - paninchikkuna ruranku.",
+      "referencia": "eso es justo lo que hacen muchos hermanos.",
+      "prediccion": "La biblia de jehová con la.",
+      "bleu1": 10.74,
+      "bleu2": 3.67,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 189,
+      "quechua": "sulpayki mamay",
+      "referencia": "gracias señora",
+      "prediccion": "Gracias señora",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 190,
+      "quechua": "chaymi jesucristopas diablota suticharqa runa wañuchiq nispa.",
+      "referencia": "cristo mismo llamó asesino al diablo.",
+      "prediccion": "Pero él vivió de la delincuencia.",
+      "bleu1": 14.29,
+      "bleu2": 4.88,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 191,
+      "quechua": "ama haykapipas rimanakuytaqa saqeychikchu",
+      "referencia": "la naturaleza de dios",
+      "prediccion": "Ayuda para las familias",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 192,
+      "quechua": "sarata mikunku",
+      "referencia": "comen maíz",
+      "prediccion": "Comen maíz",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 193,
+      "quechua": "taytayqa llamkan",
+      "referencia": "mi padre trabaja",
+      "prediccion": "Mi padre trabaja",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 194,
+      "quechua": "doctorman riruspa.",
+      "referencia": "después de la cita.",
+      "prediccion": "Tome el control.",
+      "bleu1": 19.47,
+      "bleu2": 7.11,
+      "bleu4": 6.26,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 195,
+      "quechua": "allillanmi kachkani",
+      "referencia": "me encuentro bien",
+      "prediccion": "Me encuentro bien",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 196,
+      "quechua": "chay ruwasqanmi kusichin.",
+      "referencia": "hacer cosas por otros la hace sentir bien.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 8.99,
+      "bleu2": 3.18,
+      "bleu4": 2.41,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 197,
+      "quechua": "chiri yaku",
+      "referencia": "agua fría",
+      "prediccion": "Agua fría",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 198,
+      "quechua": "chaymantapas paniy watukuqmi rirqaniku.",
+      "referencia": "también decidimos visitar a mi hermana.",
+      "prediccion": "Mira de su matrimonio.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 199,
+      "quechua": "hayk'aqmi tupasun",
+      "referencia": "¿cuándo nos veremos?",
+      "prediccion": "¿cuándo dónde lloras?",
+      "bleu1": 60.0,
+      "bleu2": 38.73,
+      "bleu4": 12.57,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 200,
+      "quechua": "pay llamkan",
+      "referencia": "él trabaja",
+      "prediccion": "Él trabaja",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 201,
+      "quechua": "tapusqankumanta  yan - der hsuuw",
+      "referencia": "entrevista  yan - der hsuuw",
+      "prediccion": "Ayuda a enseñanzas bíblicas matrimonios",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 202,
+      "quechua": "apocalipsis  , .",
+      "referencia": "revelación apocalipsis  ,",
+      "prediccion": "Llore su pérdida.",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 203,
+      "quechua": "kikikiyá chaymanta yachay.",
+      "referencia": "¿por qué no lo investiga usted mismo?",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 204,
+      "quechua": "qam yakuta upyanki",
+      "referencia": "tú bebes agua",
+      "prediccion": "Tú bebes agua",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 205,
+      "quechua": "chayqa librom",
+      "referencia": "eso es un libro",
+      "prediccion": "Eso es un libro",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 206,
+      "quechua": "kay pachatañataqmi runakunaman qurqa  salmo  .",
+      "referencia": "dios es un espíritu, no tiene cuerpo físico.",
+      "prediccion": "La gente es muy diferente a su.",
+      "bleu1": 19.47,
+      "bleu2": 4.65,
+      "bleu4": 2.57,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 207,
+      "quechua": "bibliapa ima yachachisqan.",
+      "referencia": "lo que enseña la biblia.",
+      "prediccion": "Veamos algunos ejemplos.",
+      "bleu1": 15.16,
+      "bleu2": 5.54,
+      "bleu4": 4.87,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 208,
+      "quechua": "nisqaykiman hina ruway.",
+      "referencia": "sea claro y constante.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 209,
+      "quechua": "chunka watayuqmi kani",
+      "referencia": "tengo diez años",
+      "prediccion": "Tengo veinte años",
+      "bleu1": 66.67,
+      "bleu2": 18.26,
+      "bleu4": 13.51,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 210,
+      "quechua": "ayacuchomantam kani",
+      "referencia": "soy de ayacucho",
+      "prediccion": "Soy de ayacucho",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 211,
+      "quechua": "¿yuyayniyoqñachu kani wasiymanta pasakunaypaq?",
+      "referencia": "¿estoy listo para irme de casa?",
+      "prediccion": "¿cómo podemos imitar a obedecer?",
+      "bleu1": 24.77,
+      "bleu2": 5.98,
+      "bleu4": 3.41,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 212,
+      "quechua": "pichqa semanapim kallpaq lluqsiyta costumbraruwaq.",
+      "referencia": "le tomó cinco semanas adquirir ese buen hábito.",
+      "prediccion": "Trate de la pagan de la..",
+      "bleu1": 11.03,
+      "bleu2": 3.73,
+      "bleu4": 2.45,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 213,
+      "quechua": "wayra wayramun",
+      "referencia": "el viento sopla",
+      "prediccion": "El viento sopla",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 214,
+      "quechua": "gastanapaqqa puntatam tanteana.",
+      "referencia": "calcula los gastos.",
+      "prediccion": "Mira que de la.",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 215,
+      "quechua": "tapusqankumanta  brett schenck",
+      "referencia": "entrevista  brett schenck",
+      "prediccion": "Tú trabajas",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 216,
+      "quechua": "chaynaqa diostayá respetay qamqa.",
+      "referencia": "teme al dios verdadero y guarda sus mandamientos.",
+      "prediccion": "En realidad a los judíos.",
+      "bleu1": 10.11,
+      "bleu2": 3.5,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 217,
+      "quechua": "¿imaynatam qaqchanakuyta saqechwan?",
+      "referencia": "cómo dejar de discutir",
+      "prediccion": "¿cómo lo que?",
+      "bleu1": 20.0,
+      "bleu2": 7.07,
+      "bleu4": 5.37,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 218,
+      "quechua": "manam yanqapaqchu chayna amistad kayninkuqa.",
+      "referencia": "aun así, vale la pena.",
+      "prediccion": "Pero él que es se siente.",
+      "bleu1": 14.29,
+      "bleu2": 4.88,
+      "bleu4": 3.3,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 219,
+      "quechua": "imatam biblia nim",
+      "referencia": "el punto de vista bíblico",
+      "prediccion": "El punto de vista bíblico",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 220,
+      "quechua": "¿imataq kusichisunkiman?",
+      "referencia": "¿qué determina la felicidad?",
+      "prediccion": "¿cómo lo logra?",
+      "bleu1": 32.75,
+      "bleu2": 8.19,
+      "bleu4": 5.23,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 221,
+      "quechua": "allin p'unchaw",
+      "referencia": "buenos días",
+      "prediccion": "Buenos días",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 222,
+      "quechua": "allin runa",
+      "referencia": "buen hombre",
+      "prediccion": "Buen hombre",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 223,
+      "quechua": "machuyachkaspapas astawan diosta servisunchik",
+      "referencia": "prosperidad espiritual durante la vejez",
+      "prediccion": "Ve a enseñanzas bíblicas niños",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 224,
+      "quechua": "¿hayka kutitataq chaynata nirqanki?",
+      "referencia": "¿quién no ha dicho esto alguna vez?",
+      "prediccion": "¿qué significan estas para las familias?",
+      "bleu1": 22.06,
+      "bleu2": 5.27,
+      "bleu4": 2.92,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 225,
+      "quechua": "honrado kayqa maylaw llaqtapipas allinpunim.",
+      "referencia": "este valor es fundamental para cualquier sociedad civilizada.",
+      "prediccion": "La biblia de jehová de la..",
+      "bleu1": 11.03,
+      "bleu2": 3.73,
+      "bleu4": 2.45,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 226,
+      "quechua": "wasikunatam hatarichinqaku ichaqa manam sapaq runakuna yachananpaqñachu.",
+      "referencia": "según la biblia, esa es la vida de verdad.",
+      "prediccion": "Pero no, la, y y..",
+      "bleu1": 26.69,
+      "bleu2": 5.17,
+      "bleu4": 2.53,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 227,
+      "quechua": "payñam cuentallikunqa qanmantaqa.",
+      "referencia": "nunca permitirá que tambalee el justo .",
+      "prediccion": "Mira que de la.",
+      "bleu1": 26.81,
+      "bleu2": 6.7,
+      "bleu4": 4.28,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 228,
+      "quechua": "chaynatam ñoqanchikpas rurananchik.",
+      "referencia": "lo mismo tenemos que hacer nosotros.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 229,
+      "quechua": "kasukunanpaqqa yachachinam.",
+      "referencia": "la obediencia se aprende.",
+      "prediccion": "Sepa a trabajar.",
+      "bleu1": 19.47,
+      "bleu2": 7.11,
+      "bleu4": 6.26,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 230,
+      "quechua": "qam mikunki",
+      "referencia": "tú comes",
+      "prediccion": "Tú comes",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 231,
+      "quechua": "¿wiñaypaqchu chaynalla kanqa?",
+      "referencia": "¿seguirá siendo así por siempre?",
+      "prediccion": "¿qué es el objetivo?",
+      "bleu1": 28.22,
+      "bleu2": 6.91,
+      "bleu4": 4.11,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 232,
+      "quechua": "bibliam yanapawasun chaymanta yachanapaq.",
+      "referencia": "la biblia nos ayuda a identificarlos.",
+      "prediccion": "Mira que se enfureció.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 233,
+      "quechua": "maymantam hamunki",
+      "referencia": "¿de dónde vienes?",
+      "prediccion": "¿de dónde vienes?",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 234,
+      "quechua": "ichaqa chaynata tanteaspaykiqa manam atinkichu mayqillan ruwaytapas.",
+      "referencia": "principio bíblico la sabiduría está con los modestos .",
+      "prediccion": "La biblia es muy violento.",
+      "bleu1": 20.22,
+      "bleu2": 4.95,
+      "bleu4": 2.94,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 235,
+      "quechua": "hinaptinqa, ¿imanasqataq machu - payayanchik hinaspa wañunchik?",
+      "referencia": "entonces, ¿por qué envejecemos y morimos?",
+      "prediccion": "¿cómo qué lo?",
+      "bleu1": 26.96,
+      "bleu2": 5.5,
+      "bleu4": 3.18,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 236,
+      "quechua": "bibliapa yachachisqan filipenses  .",
+      "referencia": "texto bíblico clave filipenses  .",
+      "prediccion": "Texto bíblico clave filipenses.",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 237,
+      "quechua": "chaymantapas amistadninchiktam allinta akllananchik.",
+      "referencia": "el segundo es escoger bien a nuestros amigos.",
+      "prediccion": "Trate de que se porta indecentemente.",
+      "bleu1": 10.74,
+      "bleu2": 3.67,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 238,
+      "quechua": "misi anchatam puñun",
+      "referencia": "el gato duerme mucho",
+      "prediccion": "El gato duerme mucho",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 239,
+      "quechua": "weqenchikqa admirakuypaqmi",
+      "referencia": "el punto de vista bíblico",
+      "prediccion": "Cuatro personas",
+      "bleu1": 0,
+      "bleu2": 0,
+      "bleu4": 0,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 240,
+      "quechua": "qatiqninpi kaqkunam chaqwata hatarichin",
+      "referencia": "estos son algunos detonantes de las protestas",
+      "prediccion": "El sistema reproductivo de la rana incubadora gástrica.",
+      "bleu1": 11.11,
+      "bleu2": 3.73,
+      "bleu4": 2.4,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 241,
+      "quechua": "aswanqa sumaqllata entiendechiy.",
+      "referencia": "mejor use palabras sencillas pero directas.",
+      "prediccion": "Piense en las consecuencias.",
+      "bleu1": 13.41,
+      "bleu2": 4.74,
+      "bleu4": 3.6,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 242,
+      "quechua": "llaqtapi tiyani",
+      "referencia": "vivo en el pueblo",
+      "prediccion": "Vivo en el pueblo",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 243,
+      "quechua": "ñuqa llamkaq kani",
+      "referencia": "yo soy trabajador",
+      "prediccion": "Yo soy trabajador",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 244,
+      "quechua": "chaynaqa, ¿imatam ruwawaq?",
+      "referencia": "¿qué puede hacer?",
+      "prediccion": "¿qué se llevará en la biblia?",
+      "bleu1": 37.5,
+      "bleu2": 23.15,
+      "bleu4": 6.5,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 245,
+      "quechua": "¿munawaqchu entiendesunaykita?",
+      "referencia": "¿te gustaría que te entendieran mejor?",
+      "prediccion": "¿de dónde eres tú?",
+      "bleu1": 23.88,
+      "bleu2": 5.85,
+      "bleu4": 3.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 246,
+      "quechua": "kuyakuywan hinaspa ama qaqchaspa yachachiy.",
+      "referencia": "sin dejar de ser cariñoso, tiene que hacerse respetar.",
+      "prediccion": "No se preocupen de la vida de la..",
+      "bleu1": 18.1,
+      "bleu2": 4.27,
+      "bleu4": 2.27,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 247,
+      "quechua": "¿imapim yuyaymanachisunki?",
+      "referencia": "¿qué le evoca esa expresión?",
+      "prediccion": "¿cómo qué estamos?",
+      "bleu1": 40.22,
+      "bleu2": 8.21,
+      "bleu4": 4.74,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 248,
+      "quechua": "rikchayllanpim musyaruchwan llakisqa otaq kusisqa kasqantapas.",
+      "referencia": "incluso podemos deducir su estado de ánimo.",
+      "prediccion": "En realidad a dios tuvieron emociones.",
+      "bleu1": 12.38,
+      "bleu2": 4.23,
+      "bleu4": 2.86,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 249,
+      "quechua": "tantata rantini",
+      "referencia": "compro pan",
+      "prediccion": "Compro pan",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 250,
+      "quechua": "llakisqam kani",
+      "referencia": "estoy triste",
+      "prediccion": "Estoy triste",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 251,
+      "quechua": "ñawpaqpiqa chaytam ruwaqku.",
+      "referencia": "sí, suena anticuado.",
+      "prediccion": "Veamos algunos ejemplos.",
+      "bleu1": 19.47,
+      "bleu2": 7.11,
+      "bleu4": 6.26,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 252,
+      "quechua": "allinllachu",
+      "referencia": "¿cómo estás?",
+      "prediccion": "¿cómo estás?",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 253,
+      "quechua": "qam yakuta upyanki",
+      "referencia": "tú bebes agua",
+      "prediccion": "Tú bebes agua",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 56.23,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 254,
+      "quechua": "mana clarota niptiki.",
+      "referencia": "límites poco claros.",
+      "prediccion": "No se dé.",
+      "bleu1": 25.0,
+      "bleu2": 9.13,
+      "bleu4": 8.03,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 255,
+      "quechua": "ichaqa, ¿imanasqataq mana wakin qillqakuna hinachu?",
+      "referencia": "pero ¿qué la hace tan especial?",
+      "prediccion": "¿qué qué no aprendió?",
+      "bleu1": 35.83,
+      "bleu2": 22.66,
+      "bleu4": 6.85,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 256,
+      "quechua": "¿imatam qam ruwawaq karqa chaynapi tarikuspayki?",
+      "referencia": "¿qué harías tú en una situación como esta?",
+      "prediccion": "¿qué qué se puede consolarnos personalmente?",
+      "bleu1": 29.21,
+      "bleu2": 18.03,
+      "bleu4": 5.06,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 257,
+      "quechua": "allintam yachanayki piwan negocio ruwanaykimanta.",
+      "referencia": "analice la empresa y su política de venta.",
+      "prediccion": "Trate no se halla en el.",
+      "bleu1": 10.74,
+      "bleu2": 3.67,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 258,
+      "quechua": "yachaykusunyá biblia chaymanta yachachisqanta.",
+      "referencia": "veamos tres sugerencias basadas en principios de la biblia.",
+      "prediccion": "Trate de la pagan de la..",
+      "bleu1": 29.21,
+      "bleu2": 18.03,
+      "bleu4": 5.06,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 259,
+      "quechua": "bibliaqa ninmi casado kaqkuna sasachakuyniyoq kanankumanta.",
+      "referencia": "la biblia reconoce que los matrimonios tendrán problemas.",
+      "prediccion": "La biblia, la desgracia de la.",
+      "bleu1": 33.09,
+      "bleu2": 20.43,
+      "bleu4": 5.74,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 260,
+      "quechua": "chayta yuyaykuspaykum imaynata qillqanaykupaq piensaniku.",
+      "referencia": "con eso ya vamos pensando cómo lo traduciremos.",
+      "prediccion": "Hay que llevarte que se marchó.",
+      "bleu1": 10.74,
+      "bleu2": 3.67,
+      "bleu4": 2.48,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 261,
+      "quechua": "sumaq punchaw",
+      "referencia": "día hermoso",
+      "prediccion": "Día hermoso",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 262,
+      "quechua": "sonqonpi piñakuyta waqaychaqqa kikinmi ñakarin.",
+      "referencia": "el que guarda resentimiento es el que sufre.",
+      "prediccion": "Trate de captar se porta de su.",
+      "bleu1": 11.03,
+      "bleu2": 3.73,
+      "bleu4": 2.45,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 263,
+      "quechua": "sutiyqa carmenmi",
+      "referencia": "mi nombre es carmen",
+      "prediccion": "Mi nombre es pedro",
+      "bleu1": 75.0,
+      "bleu2": 70.71,
+      "bleu4": 39.76,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 264,
+      "quechua": "tapukuy ¿mana allichayta atinaypaq hinachu sasachakuyniy? , nispa.",
+      "referencia": "pregúntese ¿de verdad están tan mal las cosas? .",
+      "prediccion": "¿qué, no parecía como ellos.",
+      "bleu1": 17.18,
+      "bleu2": 4.11,
+      "bleu4": 2.27,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 265,
+      "quechua": "imakunata puntata ruwanaykipaq tanteay.",
+      "referencia": "establezca sus prioridades.",
+      "prediccion": "Trate de la pagan de la..",
+      "bleu1": 12.5,
+      "bleu2": 4.23,
+      "bleu4": 2.78,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 266,
+      "quechua": "qam llamkanki",
+      "referencia": "tú trabajas",
+      "prediccion": "Tú trabajas",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 267,
+      "quechua": "manam piensayllapas - piensachwanchu diospa imayna kasqanmantaqa.",
+      "referencia": "incluso nuestro majestuoso universo palidece al lado del todopoderoso.",
+      "prediccion": "En el caso, la obediencia a su hijo.",
+      "bleu1": 10.0,
+      "bleu2": 3.33,
+      "bleu4": 2.11,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 268,
+      "quechua": "tantata mikuni",
+      "referencia": "como pan",
+      "prediccion": "Como pan",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 31.62,
+      "coincidencia_exacta": true
+    },
+    {
+      "id": 269,
+      "quechua": "jesucristom ichaqa mana paykuna hinachu karqa.",
+      "referencia": "sin embargo, jesucristo era un hombre completamente diferente.",
+      "prediccion": "Pero no, plenamente en la situación.",
+      "bleu1": 19.47,
+      "bleu2": 4.65,
+      "bleu4": 2.57,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 270,
+      "quechua": "¿imatam ruwachwan mana hampiy atina onqoyniyoq kasqanchikmanta yacharuspa?",
+      "referencia": "¿qué haremos si nos diagnostican una enfermedad grave?",
+      "prediccion": "¿qué qué rechazó de portada ¿cómo puede consolarnos personalmente?",
+      "bleu1": 25.0,
+      "bleu2": 15.08,
+      "bleu4": 3.99,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 271,
+      "quechua": "¿imatam piensanki?",
+      "referencia": "¿qué le parece?",
+      "prediccion": "¿qué es la biblia?",
+      "bleu1": 50.0,
+      "bleu2": 31.62,
+      "bleu4": 9.55,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 272,
+      "quechua": "¿imanasqam unanchawaqninchik kasqanpi creen?",
+      "referencia": "¿por qué cree que existe un creador?",
+      "prediccion": "¿qué qué no se siente a los hijos de jehová?",
+      "bleu1": 25.0,
+      "bleu2": 4.77,
+      "bleu4": 2.24,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 273,
+      "quechua": "¿imanasqataq wiñaypaq kawsakuyta munanchik?",
+      "referencia": "¿por qué queremos vivir indefinidamente?",
+      "prediccion": "¿qué qué le pareció el impulso de jehová?",
+      "bleu1": 30.0,
+      "bleu2": 5.77,
+      "bleu4": 2.78,
+      "coincidencia_exacta": false
+    },
+    {
+      "id": 274,
+      "quechua": "kusisqa kaspaymi takini",
+      "referencia": "porque estoy alegre canto",
+      "prediccion": "Porque estoy alegre canto",
+      "bleu1": 100.0,
+      "bleu2": 100.0,
+      "bleu4": 100.0,
+      "coincidencia_exacta": true
+    }
+  ]
+}
